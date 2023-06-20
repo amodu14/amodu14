@@ -1,5 +1,5 @@
-- 👋 Olá pessoal
-- 👀 Sou Anselmo
+- Olá pessoal 💙
+- 👀 **Sou Anselmo**
 - 🌱 Tenho interesse em aprender a programar
 - 💞️ email anselmo@escola.pr.gov.br
 - 📫 How to reach me ...
