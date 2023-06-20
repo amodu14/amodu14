@@ -2,6 +2,7 @@
 - 👀 **Sou Anselmo**
 - 🌱 Tenho interesse em aprender a programar
 - 💞️ email anselmo@escola.pr.gov.br
+- 📧 @anselmoduarte1
 - 📫 How to reach me ...
 - 😁bora programar
 - ✔aula de formadores em ação.
